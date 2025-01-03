@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\bin\Debug\net8.0\simplified-kerberos.exe
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\bin\Debug\net8.0\simplified-kerberos.deps.json
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\bin\Debug\net8.0\simplified-kerberos.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\bin\Debug\net8.0\simplified-kerberos.dll
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\bin\Debug\net8.0\simplified-kerberos.pdb
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\simplified-kerberos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\simplified-kerberos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\simplified-kerberos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\simplified-kerberos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\simplified-kerberos.dll
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\refint\simplified-kerberos.dll
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\simplified-kerberos.pdb
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\simplified-kerberos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\simplified-kerberos\obj\Debug\net8.0\ref\simplified-kerberos.dll
