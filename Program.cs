@@ -8,7 +8,8 @@ namespace SimplifiedKerberos
         // baza de date pt utilizatori: { username, password }
         static Dictionary<string, string> userDatabase = new Dictionary<string, string>
         {
-            { "user1", "password1" }
+            { "utilizator", "password" },
+            { "utilizator2", "password2" }
         };
 
         class TicketGrantingTicket
